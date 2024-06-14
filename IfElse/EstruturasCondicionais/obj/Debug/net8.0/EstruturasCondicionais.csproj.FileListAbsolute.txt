@@ -1,0 +1,14 @@
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.exe
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.deps.json
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.runtimeconfig.json
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.pdb
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.AssemblyInfoInputs.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.AssemblyInfo.cs
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\obj\Debug\net8.0\refint\EstruturasCondicionais.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.pdb
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.genruntimeconfig.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\obj\Debug\net8.0\ref\EstruturasCondicionais.dll

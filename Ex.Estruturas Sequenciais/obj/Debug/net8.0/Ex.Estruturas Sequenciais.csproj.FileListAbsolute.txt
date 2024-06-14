@@ -1,0 +1,14 @@
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Ex.Estruturas Sequenciais\bin\Debug\net8.0\Ex.Estruturas Sequenciais.exe
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Ex.Estruturas Sequenciais\bin\Debug\net8.0\Ex.Estruturas Sequenciais.deps.json
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Ex.Estruturas Sequenciais\bin\Debug\net8.0\Ex.Estruturas Sequenciais.runtimeconfig.json
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Ex.Estruturas Sequenciais\bin\Debug\net8.0\Ex.Estruturas Sequenciais.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Ex.Estruturas Sequenciais\bin\Debug\net8.0\Ex.Estruturas Sequenciais.pdb
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Ex.Estruturas Sequenciais\obj\Debug\net8.0\Ex.Estruturas Sequenciais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Ex.Estruturas Sequenciais\obj\Debug\net8.0\Ex.Estruturas Sequenciais.AssemblyInfoInputs.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Ex.Estruturas Sequenciais\obj\Debug\net8.0\Ex.Estruturas Sequenciais.AssemblyInfo.cs
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Ex.Estruturas Sequenciais\obj\Debug\net8.0\Ex.Estruturas Sequenciais.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Ex.Estruturas Sequenciais\obj\Debug\net8.0\Ex.Estruturas Sequenciais.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Ex.Estruturas Sequenciais\obj\Debug\net8.0\refint\Ex.Estruturas Sequenciais.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Ex.Estruturas Sequenciais\obj\Debug\net8.0\Ex.Estruturas Sequenciais.pdb
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Ex.Estruturas Sequenciais\obj\Debug\net8.0\Ex.Estruturas Sequenciais.genruntimeconfig.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Ex.Estruturas Sequenciais\obj\Debug\net8.0\ref\Ex.Estruturas Sequenciais.dll

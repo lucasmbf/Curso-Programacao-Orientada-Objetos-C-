@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas Bianco\\Desktop\\Cursos\\C#\\C# COMPLETO 2020 Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\IfElse\\EstruturasCondicionais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05E694EB-BE57-45F9-BADB-51532E72FEA5}|EstruturasCondicionais.csproj|c:\\users\\lucas bianco\\desktop\\cursos\\c#\\c# completo 2020 programa\u00E7\u00E3o orientada a objetos \u002B projetos\\ifelse\\estruturascondicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E694EB-BE57-45F9-BADB-51532E72FEA5}|EstruturasCondicionais.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:493949740:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Bianco\\Desktop\\Cursos\\C#\\C# COMPLETO 2020 Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\IfElse\\EstruturasCondicionais\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lucas Bianco\\Desktop\\Cursos\\C#\\C# COMPLETO 2020 Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\IfElse\\EstruturasCondicionais\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T20:18:42.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

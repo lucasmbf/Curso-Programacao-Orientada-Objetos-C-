@@ -1,0 +1,14 @@
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\Ex.EstruturasCondicionais-Exemplo2\bin\Debug\net8.0\Ex.EstruturasCondicionais-Exemplo2.exe
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\Ex.EstruturasCondicionais-Exemplo2\bin\Debug\net8.0\Ex.EstruturasCondicionais-Exemplo2.deps.json
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\Ex.EstruturasCondicionais-Exemplo2\bin\Debug\net8.0\Ex.EstruturasCondicionais-Exemplo2.runtimeconfig.json
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\Ex.EstruturasCondicionais-Exemplo2\bin\Debug\net8.0\Ex.EstruturasCondicionais-Exemplo2.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\Ex.EstruturasCondicionais-Exemplo2\bin\Debug\net8.0\Ex.EstruturasCondicionais-Exemplo2.pdb
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\Ex.EstruturasCondicionais-Exemplo2\obj\Debug\net8.0\Ex.EstruturasCondicionais-Exemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\Ex.EstruturasCondicionais-Exemplo2\obj\Debug\net8.0\Ex.EstruturasCondicionais-Exemplo2.AssemblyInfoInputs.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\Ex.EstruturasCondicionais-Exemplo2\obj\Debug\net8.0\Ex.EstruturasCondicionais-Exemplo2.AssemblyInfo.cs
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\Ex.EstruturasCondicionais-Exemplo2\obj\Debug\net8.0\Ex.EstruturasCondicionais-Exemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\Ex.EstruturasCondicionais-Exemplo2\obj\Debug\net8.0\Ex.EstruturasCondicionais-Exemplo2.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\Ex.EstruturasCondicionais-Exemplo2\obj\Debug\net8.0\refint\Ex.EstruturasCondicionais-Exemplo2.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\Ex.EstruturasCondicionais-Exemplo2\obj\Debug\net8.0\Ex.EstruturasCondicionais-Exemplo2.pdb
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\Ex.EstruturasCondicionais-Exemplo2\obj\Debug\net8.0\Ex.EstruturasCondicionais-Exemplo2.genruntimeconfig.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\Ex.EstruturasCondicionais-Exemplo2\obj\Debug\net8.0\ref\Ex.EstruturasCondicionais-Exemplo2.dll

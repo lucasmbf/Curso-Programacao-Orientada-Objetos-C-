@@ -1,0 +1,14 @@
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Entrada de dados - Exercício\bin\Debug\net8.0\Entrada de dados - Exercício.exe
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Entrada de dados - Exercício\bin\Debug\net8.0\Entrada de dados - Exercício.deps.json
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Entrada de dados - Exercício\bin\Debug\net8.0\Entrada de dados - Exercício.runtimeconfig.json
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Entrada de dados - Exercício\bin\Debug\net8.0\Entrada de dados - Exercício.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Entrada de dados - Exercício\bin\Debug\net8.0\Entrada de dados - Exercício.pdb
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Entrada de dados - Exercício\obj\Debug\net8.0\Entrada de dados - Exercício.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Entrada de dados - Exercício\obj\Debug\net8.0\Entrada de dados - Exercício.AssemblyInfoInputs.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Entrada de dados - Exercício\obj\Debug\net8.0\Entrada de dados - Exercício.AssemblyInfo.cs
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Entrada de dados - Exercício\obj\Debug\net8.0\Entrada de dados - Exercício.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Entrada de dados - Exercício\obj\Debug\net8.0\Entrada de dados - Exercício.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Entrada de dados - Exercício\obj\Debug\net8.0\refint\Entrada de dados - Exercício.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Entrada de dados - Exercício\obj\Debug\net8.0\Entrada de dados - Exercício.pdb
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Entrada de dados - Exercício\obj\Debug\net8.0\Entrada de dados - Exercício.genruntimeconfig.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Entrada de dados - Exercício\obj\Debug\net8.0\ref\Entrada de dados - Exercício.dll
