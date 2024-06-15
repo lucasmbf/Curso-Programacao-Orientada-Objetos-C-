@@ -12,3 +12,4 @@ C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada
 C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.pdb
 C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.genruntimeconfig.cache
 C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\obj\Debug\net8.0\ref\EstruturasCondicionais.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\bin\Debug\net8.0\ExEstrututurasCondicionais1.exe
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\bin\Debug\net8.0\ExEstrututurasCondicionais1.deps.json
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\bin\Debug\net8.0\ExEstrututurasCondicionais1.runtimeconfig.json
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\bin\Debug\net8.0\ExEstrututurasCondicionais1.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\bin\Debug\net8.0\ExEstrututurasCondicionais1.pdb
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\obj\Debug\net8.0\ExEstrututurasCondicionais1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\obj\Debug\net8.0\ExEstrututurasCondicionais1.AssemblyInfoInputs.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\obj\Debug\net8.0\ExEstrututurasCondicionais1.AssemblyInfo.cs
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\obj\Debug\net8.0\ExEstrututurasCondicionais1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\obj\Debug\net8.0\ExEstrututurasCondicionais1.sourcelink.json
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\obj\Debug\net8.0\ExEstrututurasCondicionais1.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\obj\Debug\net8.0\refint\ExEstrututurasCondicionais1.dll
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\obj\Debug\net8.0\ExEstrututurasCondicionais1.pdb
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\obj\Debug\net8.0\ExEstrututurasCondicionais1.genruntimeconfig.cache
+C:\Users\Lucas Bianco\Desktop\Cursos\C#\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\IfElse\ExEstrututurasCondicionais1\obj\Debug\net8.0\ref\ExEstrututurasCondicionais1.dll

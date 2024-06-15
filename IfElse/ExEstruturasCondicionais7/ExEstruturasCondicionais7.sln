@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExEstruturasCondicionais7", "ExEstruturasCondicionais7.csproj", "{3645B2E4-6B96-4117-AA5D-D71E2C4B2151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3645B2E4-6B96-4117-AA5D-D71E2C4B2151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3645B2E4-6B96-4117-AA5D-D71E2C4B2151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3645B2E4-6B96-4117-AA5D-D71E2C4B2151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3645B2E4-6B96-4117-AA5D-D71E2C4B2151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E4A552C-478E-4BB3-98F1-6FAAE8BA6228}
+	EndGlobalSection
+EndGlobal
